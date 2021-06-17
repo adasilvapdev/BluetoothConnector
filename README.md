@@ -1,2 +1,2 @@
-# BluetoothConnector
-Bluetooh Connector - React Native App
+# Bluetooth Connector
+**Bluetooh Connector - React Native App**
