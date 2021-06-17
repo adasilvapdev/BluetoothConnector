@@ -1,2 +1,2 @@
-# :small_blue_diamond: Bluetooth Connector :small_blue_diamond:
+# :small_blue_diamond: Bluetooth Connector :iphone: :small_blue_diamond:
 **Bluetooh Connector - React Native App**
