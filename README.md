@@ -9,8 +9,7 @@ Bluetooth is a short-range wireless networking protocol to quickly connect devic
 - Bluetooth Classic is often referred to as just Bluetooth. This technology can support continuous connections and transfer big amounts of data. This may include phone calls, audio streaming, data.
 
 - Bluetooth Low Energy is also known as BLE. This is a version of Bluetooth that is adapted to low power sensors and accessories. Such devices don’t require continuous connection but depend on long battery life. They are especially popular in fitness, healthcare, security, home entertainment industries, and beacons.
-
-
+____________________________________________________________________________________________________________________________________________
 ***Key concepts for BLE 📖***
 - GATT stands for Generic Attribute Profile that defines how BLE-devices transfer data. To make data transfer possible, devices should have a dedicated connection.
 
@@ -28,7 +27,7 @@ Since we’re talking about GATT, let’s take a bit closer look at the server/c
 **Peripheral -> GATT Server**
 
 **Central Device -> GATT Client**
-
+____________________________________________________________________________________________________________________________________________
 The Client initiates all the transactions by asking the Server for data. There are 2 ways to transfer data from the Server to the Client: Notifications and Indications.
 
     Notification is a one-way message. It goes faster since it doesn’t ask the Client whether it has received the message or not.
