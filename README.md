@@ -66,9 +66,7 @@ ________________________________________________________________________________
 **About the library I'm going to use**
  [react-native-ble-plx](https://openbase.com/js/react-native-ble-plx)
 
-**About this library**
-
-This is React Native Bluetooth Low Energy library wrapping [Multiplatform Ble Adapter](https://github.com/gkapusta/MultiPlatformBleAdapter).
+**This is React Native Bluetooth Low Energy library wrapping [Multiplatform Ble Adapter](https://github.com/gkapusta/MultiPlatformBleAdapter).**
 
 It supports:
 - Observing device's Bluetooth adapter state
