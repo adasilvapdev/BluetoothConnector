@@ -20,6 +20,7 @@ _BLE-devices are often referred to as peripheral devices, while smartphones, tab
 
 _Connection between a central and peripheral devices (image by [Kevin Townsend](https://learn.adafruit.com/users/ktownsend))_.
 
+
 Since we’re talking about GATT, let’s take a bit closer look at the server/client relationship:
 - From that perspective, a peripheral device is known as the GATT Server that contains data.
 - A central device acts as the GATT Client that sends requests to this server.
