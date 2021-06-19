@@ -13,7 +13,8 @@ ________________________________________________________________________________
 ***Key concepts for BLE 📖***
 - GATT stands for Generic Attribute Profile that defines how BLE-devices transfer data. To make data transfer possible, devices should have a dedicated connection.
 
-_BLE-devices are often referred to as peripheral devices, while smartphones, tablets, and other similar gadgets — as central devices. Every peripheral device can have an exclusive connection with one central device at a time, while the central device can be simultaneously connected to multiple peripherals:_
+_BLE-devices are often referred to as peripheral devices, while smartphones, tablets, and other similar gadgets — as central devices. 
+Every peripheral device can have an exclusive connection with one central device at a time, while the central device can be simultaneously connected to multiple peripherals:_
 
 ![image](https://user-images.githubusercontent.com/20091777/122648996-bcecc600-d0f9-11eb-8818-6a725adf99c5.png)
 
