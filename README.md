@@ -65,3 +65,24 @@ ________________________________________________________________________________
 
 **About the library I'm going to use**
  [react-native-ble-plx](https://openbase.com/js/react-native-ble-plx)
+
+**About this library**
+
+This is React Native Bluetooth Low Energy library wrapping [Multiplatform Ble Adapter](https://github.com/gkapusta/MultiPlatformBleAdapter).
+
+It supports:
+- Observing device's Bluetooth adapter state
+- Scanning BLE devices
+- Making connections to peripherals
+- Discovering services/characteristics
+- Reading/writing characteristics
+- Observing characteristic notifications/indications
+- Reading RSSI
+- Negotiating MTU
+- Background mode on iOS
+- Turning the device's Bluetooth adapter on
+
+It does NOT support:
+- Bluetooth classic devices.
+- Communicating between phones using BLE (Peripheral support)
+- Bonding peripherals
