@@ -25,5 +25,4 @@ Since we’re talking about GATT, let’s take a bit closer look at the server/c
 - From that perspective, a peripheral device is known as the GATT Server that contains data.
 - A central device acts as the GATT Client that sends requests to this server.
 
-Peripheral -> GATT Server
-Central Device -> GATT Client
+**Peripheral -> GATT Server** | **Central Device -> GATT Client**
