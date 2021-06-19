@@ -18,4 +18,4 @@ _BLE-devices are often referred to as peripheral devices, while smartphones, tab
 
 ![image](https://user-images.githubusercontent.com/20091777/122648996-bcecc600-d0f9-11eb-8818-6a725adf99c5.png)
 
-_Connection between a central and peripheral devices (image by [Kevin Townsend](https://learn.adafruit.com/users/ktownsend))_
+_Connection between a central and peripheral devices (image by [Kevin Townsend](https://learn.adafruit.com/users/ktownsend))_.
