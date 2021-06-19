@@ -69,18 +69,18 @@ ________________________________________________________________________________
 **This is React Native Bluetooth Low Energy library wrapping [Multiplatform Ble Adapter](https://github.com/gkapusta/MultiPlatformBleAdapter).**
 
 It supports:
-- Observing device's Bluetooth adapter state
-- Scanning BLE devices
-- Making connections to peripherals
-- Discovering services/characteristics
-- Reading/writing characteristics
-- Observing characteristic notifications/indications
-- Reading RSSI
-- Negotiating MTU
-- Background mode on iOS
+- [Observing device's Bluetooth adapter state](https://github.com/dotintent/react-native-ble-plx/wiki/Bluetooth-Adapter-State)
+- [Scanning BLE devices](https://github.com/dotintent/react-native-ble-plx/wiki/Bluetooth-Scanning)
+- [Making connections to peripherals](https://github.com/dotintent/react-native-ble-plx/wiki/Device-Connecting)
+- [Discovering services/characteristics](https://github.com/dotintent/react-native-ble-plx/wiki/Device-Service-Discovery)
+- [Reading](https://github.com/dotintent/react-native-ble-plx/wiki/Characteristic-Reading)/[writing](https://github.com/dotintent/react-native-ble-plx/wiki/Characteristic-Writing) characteristics
+- [Observing characteristic notifications/indications](https://github.com/dotintent/react-native-ble-plx/wiki/Characteristic-Notifying)
+- [Reading RSSI](https://github.com/dotintent/react-native-ble-plx/wiki/RSSI-Reading)
+- [Negotiating MTU](https://github.com/dotintent/react-native-ble-plx/wiki/MTU-Negotiation)
+- [Background mode on iOS](https://github.com/dotintent/react-native-ble-plx/wiki/Background-mode-(iOS))
 - Turning the device's Bluetooth adapter on
 
 It does NOT support:
 - Bluetooth classic devices.
 - Communicating between phones using BLE (Peripheral support)
-- Bonding peripherals
+- [Bonding peripherals](https://github.com/dotintent/react-native-ble-plx/wiki/Device-Bonding)
