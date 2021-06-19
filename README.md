@@ -59,3 +59,5 @@ _Example of Profile structure (image by [Mohammad Afaneh](https://www.novelbits.
 ![image](https://user-images.githubusercontent.com/20091777/122649989-7fd70280-d0fe-11eb-9ab9-46a02ebe319e.png)
 
 _Image by [Stormotion](https://stormotion.io/blog/what-to-consider-when-integrating-ble-in-your-react-native-app/)._
+
+_You can read a bit more on GATT, Profile, Services and Characteristics [here](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt), and on Notifications & Indications — [here](https://community.nxp.com/docs/DOC-328525)._
