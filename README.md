@@ -56,3 +56,12 @@ _Example of Profile structure (image by [Mohammad Afaneh](https://www.novelbits.
 
 If we break down the example above into smaller pieces:
 
+|             If we break down the example above into smaller pieces:          |
+|------------------------------------------------------------------------------|
+|     Profile      |                       Blood Pressure                      |
+|------------------|-----------------------------------------------------------|
+|     Services     |    Blood Pressure Service    | Device Information Service |
+|------------------|-----------------------------------------------------------|
+| Characteristics  |   Intermediate Cuff Pressure |  Manufacturer Name String  |
+|                  |   Blood Pressure Measurement |  Hardware Revision String  |
+|                  |     Blood Pressure Feature   |     Model Number String    |
