@@ -56,12 +56,6 @@ _Example of Profile structure (image by [Mohammad Afaneh](https://www.novelbits.
 
 If we break down the example above into smaller pieces:
 
-|             If we break down the example above into smaller pieces:          |
-|------------------------------------------------------------------------------|
-|     Profile      |                       Blood Pressure                      |
-|------------------|-----------------------------------------------------------|
-|     Services     |    Blood Pressure Service    | Device Information Service |
-|------------------|-----------------------------------------------------------|
-| Characteristics  |   Intermediate Cuff Pressure |  Manufacturer Name String  |
-|                  |   Blood Pressure Measurement |  Hardware Revision String  |
-|                  |     Blood Pressure Feature   |     Model Number String    |
+![image](https://user-images.githubusercontent.com/20091777/122649989-7fd70280-d0fe-11eb-9ab9-46a02ebe319e.png)
+
+image by [Stormotion](https://stormotion.io/blog/what-to-consider-when-integrating-ble-in-your-react-native-app/).
