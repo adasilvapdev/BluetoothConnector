@@ -47,3 +47,10 @@ _The hierarchy of Profiles, Services and Characteristics (image by [Kevin Townse
 - Profile is a predefined set of Services.
 - Services break data up into logic blocks that consist of Characteristics.
 - Characteristic is a single data point, including an array of related data like X/Y/Z values from a 3-axis accelerometer.
+
+Here's an example of how it may look for a fitness tracking device:
+
+![image](https://user-images.githubusercontent.com/20091777/122649567-66cd5200-d0fc-11eb-8281-d39bb080e01d.png)
+
+_Example of Profile structure (image by [Mohammad Afaneh](https://www.novelbits.io/author/mafaneh/))._
+
