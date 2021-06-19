@@ -54,3 +54,5 @@ _The hierarchy of Profiles, Services and Characteristics (image by [Kevin Townse
 
 _Example of Profile structure (image by [Mohammad Afaneh](https://www.novelbits.io/author/mafaneh/))._
 
+If we break down the example above into smaller pieces:
+
