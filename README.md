@@ -58,4 +58,4 @@ If we break down the example above into smaller pieces:
 
 ![image](https://user-images.githubusercontent.com/20091777/122649989-7fd70280-d0fe-11eb-9ab9-46a02ebe319e.png)
 
-image by [Stormotion](https://stormotion.io/blog/what-to-consider-when-integrating-ble-in-your-react-native-app/).
+_Image by [Stormotion](https://stormotion.io/blog/what-to-consider-when-integrating-ble-in-your-react-native-app/)._
