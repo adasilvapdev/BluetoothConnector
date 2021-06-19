@@ -103,3 +103,6 @@ Here are some recommendations on how you can make the development go smoother:
 If you’re developing an Android application, this one will be important. As written in documentation: “Starting from Android API 23+, to access the hardware identifiers of nearby external devices via Bluetooth and Wi-Fi scans, your app must now have the geolocation enabled”.
 
 To check whether geolocation is enabled and turn it on in case its not, we recommend using the [react-native-android-location-enabler](https://github.com/Richou/react-native-android-location-enabler) library.
+
+# 2: Turn on Bluetooth 📳
+We need to turn on Bluetooth on the device before scanning. For this purpose I'm going to use: [react-native-ble-plx](https://github.com/dotintent/react-native-ble-plx)
