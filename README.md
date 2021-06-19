@@ -42,4 +42,6 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/20091777/122649427-cecf6880-d0fb-11eb-9a70-ab6e8b2998aa.png)
 
-The hierarchy of Profiles, Services and Characteristics (image by Kevin Townsend).
+The hierarchy of Profiles, Services and Characteristics (image by [Kevin Townsend](https://learn.adafruit.com/users/ktownsend)).
+
+
