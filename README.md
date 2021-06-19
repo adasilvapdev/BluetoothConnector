@@ -1,6 +1,6 @@
 # :small_blue_diamond: Bluetooth Connector :iphone: :small_blue_diamond:
 **Bluetooh Connector - React Native App**
-
+____________________________________________________________________________________________________________________________________________
 
 ***📳 Bluetooth Low Energy: Main Concepts and Difference from Classic Bluetooth***
 
