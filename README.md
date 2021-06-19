@@ -34,6 +34,7 @@ The Client initiates all the transactions by asking the Server for data.
 **There are 2 ways to transfer data from the Server to the Client: Notifications and Indications.**
 
 - Notification is a one-way message. It goes faster since it doesn’t ask the Client whether it has received the message or not.
-- 
-- Indication describes a system of two-way communication. The Server sends a message ➡️ the Client receives the message and sends a confirmation message back to the Server ➡️ the Server knows that the initial message has reached the Client.
+
+- Indication describes a system of two-way communication. 
+The Server sends a message ➡️ the Client receives the message and sends a confirmation message back to the Server ➡️ the Server knows that the initial message has reached the Client.
 
