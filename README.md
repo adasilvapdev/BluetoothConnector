@@ -64,4 +64,4 @@ _You can read a bit more on GATT, Profile, Services and Characteristics [here](h
 ____________________________________________________________________________________________________________________________________________
 
 **About the library I'm going to use**
-# [react-native-ble-plx](https://openbase.com/js/react-native-ble-plx)
+ [react-native-ble-plx](https://openbase.com/js/react-native-ble-plx)
