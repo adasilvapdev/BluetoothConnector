@@ -106,3 +106,16 @@ To check whether geolocation is enabled and turn it on in case its not, we recom
 
 # 2: Turn on Bluetooth 📳
 We need to turn on Bluetooth on the device before scanning. For this purpose I'm going to use: [react-native-ble-plx](https://github.com/dotintent/react-native-ble-plx)
+
+# 3: Change device name 📱
+When using react-native-ble-plx we may stumble upon a bug when the device name wouldn’t change. That happens because name is cached. This issue is tracked [here](https://github.com/dotintent/react-native-ble-plx/issues/230).
+
+# 4: Keep code quality high 🏆
+
+Finally, here are few general tips to improve code quality:
+
+- Keep all the characteristics and services UUID in one place.
+- Avoid magic numbers in characteristic. Instead, use constants.
+- Organize the logic structure into 2 separate files:
+  * One file to keep logic that contains code that is not related to communication with a specific device (e.g. scanning, connection, disconnection);
+  * Another file for code that contains communication with a specific device — discovering services/characteristics, observing notifications/indications, reading/writing characteristics and others.
