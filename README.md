@@ -44,4 +44,6 @@ ________________________________________________________________________________
 
 _The hierarchy of Profiles, Services and Characteristics (image by [Kevin Townsend](https://learn.adafruit.com/users/ktownsend))._
 
-
+- Profile is a predefined set of Services.
+- Services break data up into logic blocks that consist of Characteristics.
+- Characteristic is a single data point, including an array of related data like X/Y/Z values from a 3-axis accelerometer.
