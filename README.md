@@ -39,5 +39,7 @@ The Client initiates all the transactions by asking the Server for data.
 The Server sends a message ➡️ the Client receives the message and sends a confirmation message back to the Server ➡️ the Server knows that the initial message has reached the Client.
 ____________________________________________________________________________________________________________________________________________
 **Data transfer itself is based on a few high-level objects: Profiles, Services, and Characteristics.**
+
 ![image](https://user-images.githubusercontent.com/20091777/122649427-cecf6880-d0fb-11eb-9a70-ab6e8b2998aa.png)
 
+The hierarchy of Profiles, Services and Characteristics (image by Kevin Townsend).
