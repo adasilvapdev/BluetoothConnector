@@ -84,3 +84,22 @@ It does NOT support:
 - Bluetooth classic devices.
 - Communicating between phones using BLE (Peripheral support)
 - [Bonding peripherals](https://github.com/dotintent/react-native-ble-plx/wiki/Device-Bonding)
+____________________________________________________________________________________________________________________________________________
+
+**✅ Apps to Test BLE Devices**
+
+When developing a React Native mobile app with BLE integration, we will need to test probably need to test how it really works such devices. The Stormotion team used the following apps:
+- nRF Connect for Mobile ([Android](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=uk))
+- BLE Scanner ([Android](https://play.google.com/store/apps/details?id=com.macdom.ble.blescanner&hl=uk) | [iOS](https://apps.apple.com/ru/app/ble-scanner-4-0/id1221763603))
+
+_The tools are quite similar and provide many options to test different features of BLE devices._
+____________________________________________________________________________________________________________________________________________
+**⚠️ Possible Pitfalls when Integrating BLE Devices**
+
+During the integration of BLE, some difficulties may arise that can complicate the development process. 
+Here are some recommendations on how you can make the development go smoother:
+
+# 1: Turn on geolocation 🌍
+If you’re developing an Android application, this one will be important. As written in documentation: “Starting from Android API 23+, to access the hardware identifiers of nearby external devices via Bluetooth and Wi-Fi scans, your app must now have the geolocation enabled”.
+
+To check whether geolocation is enabled and turn it on in case its not, we recommend using the react-native-android-location-enabler library.
