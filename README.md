@@ -119,3 +119,7 @@ Finally, here are few general tips to improve code quality:
 - Organize the logic structure into 2 separate files:
   * One file to keep logic that contains code that is not related to communication with a specific device (e.g. scanning, connection, disconnection);
   * Another file for code that contains communication with a specific device — discovering services/characteristics, observing notifications/indications, reading/writing characteristics and others.
+ 
+
+
+ Updated and maintained with ❤️ by [@andreaintech](https://andreaintech.github.io/web/)
